@@ -1,4 +1,4 @@
-S-1-Mockups
+Copyright Project
 ===========
 
-S-1 Mockup files in .asap format
+repository of files to be edited with an automatic copyright insertion service.
