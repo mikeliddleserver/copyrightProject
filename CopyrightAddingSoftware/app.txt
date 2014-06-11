@@ -1,0 +1,40 @@
+copyrightPathBegin
+C:\Users\mike.liddle\documents\copyrightProject\copyright.txt
+copyrightPathEnd
+
+logPathBegin
+C:\updatelog.txt
+logPathEnd
+
+DirectoryBegin
+directoryPath=C:\Users\mike.liddle\documents\copyrightProject\repository\
+directoryPath=C:\Users\mike.liddle\documents\copyrightProject\repository1\
+directoryPath=C:\Users\mike.liddle\documents\copyrightProject\repository2\
+DirectoryEnd
+
+ExtensionBegin
+extension comment=//      endComment=//     file=*.c
+extension comment=//      endComment=//     file=*.h
+extension comment=//      endComment=//     file=*.cpp
+extension comment=//      endComment=//     file=*.cxx
+extension comment=//      endComment=//     file=*.hpp
+extension comment=//      endComment=//     file=*.hxx
+extension comment=//      endComment=//     file=*.js
+extension comment=//      endComment=//     file=*.jsp
+extension comment=//      endComment=//     file=*.m
+extension comment=<!--    endComment=-->    file=*.php
+extension comment=#       endComment=#      file=*.sql
+extension comment=//      endComment=//     file=*.cs
+extension comment=//      endComment=//     file=*.cls
+extension comment=//      endComment=//     file=*.cc
+extension comment=//      endComment=//     file=*.cbp
+extension comment=<!--    endComment=-->    file=*.html
+extension comment=<!--    endComment=-->    file=*.htm
+extension comment=<!--    endComment=-->    file=*.xml
+extension comment=<!--    endComment=-->    file=*.html5
+extension comment=<!--    endComment=-->    file=*.csproj
+extension comment=//      endComment=//     file=*.java
+extension comment=$       endComment=$      file=*.rb
+extension comment=#       endComment=#      file=*.sh
+extension comment='       endComment='      file=*.vb
+ExtensionEnd
