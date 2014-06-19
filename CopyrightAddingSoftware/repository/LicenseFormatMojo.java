@@ -14,7 +14,6 @@
 //                                                                     // 
 //=======================LicenseFormatMojo.java=======================//
 package com.mycila.maven.plugin.license;
-
 import com.mycila.maven.plugin.license.document.Document;
 import com.mycila.maven.plugin.license.header.Header;
 import org.apache.maven.plugin.MojoExecutionException;
