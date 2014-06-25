@@ -1,4 +1,3 @@
-
 package com.mycila.maven.plugin.license;
 
 import com.mycila.maven.plugin.license.document.Document;
@@ -20,20 +19,15 @@ import org.apache.maven.plugins.annotations.Component;
 import org.apache.maven.plugins.annotations.Parameter;
 import org.apache.maven.project.MavenProject;
 import org.xml.sax.InputSource;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
 import java.util.concurrent.*;
-
 import static com.mycila.maven.plugin.license.document.DocumentType.defaultMapping;
 import static java.lang.String.format;
 import static java.util.Arrays.asList;
 import static java.util.Arrays.deepToString;
 
-/**
- * <b>Date:</b> 18-Feb-2008<br> <b>Author:</b> Mathieu Carbou (mathieu.carbou@gmail.com)
- */
 public abstract class AbstractLicenseMojo extends AbstractMojo {
 
     /**
