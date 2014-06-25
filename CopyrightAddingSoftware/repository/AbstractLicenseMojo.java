@@ -30,9 +30,6 @@ import static java.util.Arrays.deepToString;
 
 public abstract class AbstractLicenseMojo extends AbstractMojo {
 
-    /**
-     * The base directory, in which to search for project files.
-     */
     @Parameter(property = "license.basedir", defaultValue = "${basedir}", required = true)
     public File basedir;
 
