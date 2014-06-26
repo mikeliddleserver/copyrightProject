@@ -1,17 +1,3 @@
-=begin=========================copyrightScript.rb==========================end
-=begin  Author:    Connor Group Software Development team 2014            =end
-=begin  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  =end
-=begin  Email:     it@connorgp.com                                        =end
-=begin  Website:   http://www.connorgp.com                                =end
-=begin                                                                    =end
-=begin  The copyright to the source code and computer program(s)          =end
-=begin  herein is the property of Connor Group.The source code            =end
-=begin  and program(s) may be used and/or copied only with the            =end
-=begin  written permission of Connor Group or in accordance with          =end
-=begin  the terms and conditions stipulated in the                        =end
-=begin  agreement/contract under which the source code and                =end
-=begin  program(s) have been supplied.                                    =end
-=begin                                                                    =end
 module FileBrowser
  def browse(root)
    queue = Array.new.push(root)
