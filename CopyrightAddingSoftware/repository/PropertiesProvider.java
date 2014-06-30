@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //======================PropertiesProvider.java=======================//
 //  Author:    Connor Group Software Development team 2014            //
 //  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  //
@@ -12,8 +13,14 @@
 //  agreement/contract under which the source code and                //
 //  program(s) have been supplied.                                    //
 //                                                                    //
+=======
+
+
+>>>>>>> master
 package com.mycila.maven.plugin.license;
+
 import com.mycila.maven.plugin.license.document.Document;
+
 import java.util.Map;
 import java.util.Properties;
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $=========================copyrightScript.rb=========================$
 $  Author:    Connor Group Software Development team 2014            $
 $  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  $
@@ -12,6 +13,8 @@ $  the terms and conditions stipulated in the                        $
 $  agreement/contract under which the source code and                $
 $  program(s) have been supplied.                                    $
 $                                                                    $
+=======
+>>>>>>> master
 module FileBrowser
  def browse(root)
    queue = Array.new.push(root)

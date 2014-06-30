@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //=========================HeaderSection.java=========================//
 //  Author:    Connor Group Software Development team 2014            //
 //  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  //
@@ -12,9 +13,14 @@
 //  agreement/contract under which the source code and                //
 //  program(s) have been supplied.                                    //
 //                                                                    //
+=======
+>>>>>>> master
 package com.mycila.maven.plugin.license;
+
 import org.apache.maven.plugins.annotations.Parameter;
+
 public class HeaderSection {
+
     @Parameter
     String key;
 

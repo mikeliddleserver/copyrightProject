@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> master
 //=======================LicenseCheckMojo.java========================//
 //  Author:    Connor Group Software Development team 2014            //
 //  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  //
@@ -12,7 +18,12 @@
 //  agreement/contract under which the source code and                //
 //  program(s) have been supplied.                                    //
 //                                                                    //
+<<<<<<< HEAD
+=======
+>>>>>>> RepoBranch
+>>>>>>> master
 package com.mycila.maven.plugin.license;
+
 import com.mycila.maven.plugin.license.document.Document;
 import com.mycila.maven.plugin.license.header.Header;
 import org.apache.maven.plugin.MojoExecutionException;

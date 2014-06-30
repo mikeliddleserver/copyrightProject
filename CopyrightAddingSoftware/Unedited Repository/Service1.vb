@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 '============================Service1.vb============================='
 '  Author:    Connor Group Software Development team 2014            '
 '  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  '
@@ -12,7 +13,14 @@
 '  agreement/contract under which the source code and                '
 '  program(s) have been supplied.                                    '
 '                                                                    '
+=======
+
+
+
+
+>>>>>>> master
 Public Class Service1
+
     Protected Overrides Sub OnStart(ByVal args() As String)
         ' Add code here to start your service. This method should set things
         ' in motion so your service can do its work.

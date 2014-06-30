@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
 //============================Default.java============================//
 //  Author:    Connor Group Software Development team 2014            //
 //  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  //
@@ -12,7 +17,12 @@
 //  agreement/contract under which the source code and                //
 //  program(s) have been supplied.                                    //
 //                                                                    //
+<<<<<<< HEAD
+=======
+>>>>>>> RepoBranch
+>>>>>>> master
 package com.mycila.maven.plugin.license;
+
 /**
  * @author Mathieu Carbou (mathieu.carbou@gmail.com)
  * @date 2013-08-01
