@@ -13,6 +13,7 @@
 //  program(s) have been supplied.                                    //
 //                                                                    //
 <<<<<<< HEAD
+<<<<<<< HEAD
 //=======================LicenseRemoveMojo.java=======================//
 //  Author:    Connor Group Software Development team 2014            //
 //  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  //
@@ -42,6 +43,9 @@
 //  agreement/contract under which the source code and                //
 //  program(s) have been supplied.                                    //
 //                                                                    //
+=======
+<<<<<<< HEAD
+>>>>>>> 2664aa9f2caa2e67462ff988a8238b62c8d3217f
 =======
 =======
 >>>>>>> 38bdafccd2a821f2fa07d302a876f11a6922b02d

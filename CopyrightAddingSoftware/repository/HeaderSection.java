@@ -13,6 +13,7 @@
 //  program(s) have been supplied.                                    //
 //                                                                    //
 <<<<<<< HEAD
+<<<<<<< HEAD
 //=========================HeaderSection.java=========================//
 //  Author:    Connor Group Software Development team 2014            //
 //  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  //
@@ -46,12 +47,11 @@
 >>>>>>> 0aeb2c99239193fb2bfbb634e8ff9013cd192ae5
 =======
 >>>>>>> 38bdafccd2a821f2fa07d302a876f11a6922b02d
+=======
+>>>>>>> 2664aa9f2caa2e67462ff988a8238b62c8d3217f
 package com.mycila.maven.plugin.license;
-
 import org.apache.maven.plugins.annotations.Parameter;
-
 public class HeaderSection {
-
     @Parameter
     String key;
 

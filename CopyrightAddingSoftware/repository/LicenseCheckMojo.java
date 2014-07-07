@@ -13,6 +13,7 @@
 //  program(s) have been supplied.                                    //
 //                                                                    //
 <<<<<<< HEAD
+<<<<<<< HEAD
 //=======================LicenseCheckMojo.java========================//
 //  Author:    Connor Group Software Development team 2014            //
 //  Copyright: Copyright (C) 2014 Connor Group. All rights reserved.  //
@@ -48,8 +49,9 @@
 =======
 
 >>>>>>> 38bdafccd2a821f2fa07d302a876f11a6922b02d
+=======
+>>>>>>> 2664aa9f2caa2e67462ff988a8238b62c8d3217f
 package com.mycila.maven.plugin.license;
-
 import com.mycila.maven.plugin.license.document.Document;
 import com.mycila.maven.plugin.license.header.Header;
 import org.apache.maven.plugin.MojoExecutionException;
